@@ -1,1 +1,1 @@
-DDoS Xd!
+Beginning!
