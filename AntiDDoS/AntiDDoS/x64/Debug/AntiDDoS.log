@@ -1,0 +1,12 @@
+﻿  AntiDDoS.cpp
+C:\Users\antiban\source\repos\AntiDDoS\AntiDDoS\AntiDDoS.cpp(57,105): error C2955: 'std::not_equal_to': use of class template requires template argument list
+D:\IDE\VC\Tools\MSVC\14.29.30133\include\xstddef(89): message : see declaration of 'std::not_equal_to'
+C:\Users\antiban\source\repos\AntiDDoS\AntiDDoS\AntiDDoS.cpp(57,93): error C2955: 'std::not_equal_to': use of class template requires template argument list
+D:\IDE\VC\Tools\MSVC\14.29.30133\include\xstddef(89): message : see declaration of 'std::not_equal_to'
+C:\Users\antiban\source\repos\AntiDDoS\AntiDDoS\AntiDDoS.cpp(57,83): error C2672: 'std::bind': no matching overloaded function found
+C:\Users\antiban\source\repos\AntiDDoS\AntiDDoS\AntiDDoS.cpp(57,126): error C2143: syntax error: missing ')' before ';'
+C:\Users\antiban\source\repos\AntiDDoS\AntiDDoS\AntiDDoS.cpp(57,37): error C2672: 'std::count_if': no matching overloaded function found
+C:\Users\antiban\source\repos\AntiDDoS\AntiDDoS\AntiDDoS.cpp(57,126): error C2780: 'iterator_traits<_Iter>::difference_type std::count_if(_InIt,_InIt,_Pr)': expects 3 arguments - 2 provided
+D:\IDE\VC\Tools\MSVC\14.29.30133\include\algorithm(504): message : see declaration of 'std::count_if'
+C:\Users\antiban\source\repos\AntiDDoS\AntiDDoS\AntiDDoS.cpp(57,22): error C2737: 'packets': const object must be initialized
+C:\Users\antiban\source\repos\AntiDDoS\AntiDDoS\AntiDDoS.cpp(57,127): error C2059: syntax error: ')'
